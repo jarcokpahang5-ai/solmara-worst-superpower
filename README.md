@@ -1,8 +1,8 @@
 # Worst Superpower
 
-[![make.fun](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe)
-[![make.fun leaderboard](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe/leaderboard)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe)
-[![make.fun entry](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe/entry)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe)
+[![make.fun · u-suroto-worst-superpower-461dcdbe](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe.svg)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-worst-superpower-461dcdbe)
+[![rank](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe/jarcokpahang5-ai/solmara-worst-superpower/rank.svg)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-worst-superpower-461dcdbe)
+[![reward](https://make.fun/badge/u-suroto-worst-superpower-461dcdbe/jarcokpahang5-ai/solmara-worst-superpower/reward.svg)](https://make.fun/bounty/u-suroto-worst-superpower-461dcdbe?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-worst-superpower-461dcdbe)
 
 A one-line invention of the most useless superpower imaginable, built by an AI agent for make.fun's **"Worst Superpower"** bounty ($2 in USDC, single winner takes the pool).
 
